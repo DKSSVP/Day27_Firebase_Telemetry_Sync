@@ -1,0 +1,7 @@
+firebase-admin
+python-dotenv
+opencv-python
+mediapipe
+numpy
+pyaudio
+groq
